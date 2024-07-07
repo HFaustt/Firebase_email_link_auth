@@ -1,0 +1,45 @@
+/* Home.module.css */
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.welcomeMessage {
+  margin: 20px 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.buttonContainer {
+  margin: 20px 0;
+}
+
+.signOutButton {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signOutButton:hover {
+  background-color: #0056b3;
+}
+
+.loginMessage {
+  margin-top: 20px;
+  font-size: 1em;
+  color: #555;
+}
+
+.loginLink {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.loginLink:hover {
+  text-decoration: underline;
+}
